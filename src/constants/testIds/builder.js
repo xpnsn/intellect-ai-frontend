@@ -1,0 +1,16 @@
+export const BUILDER = {
+        titleInput: 'builder-title-input',
+        descriptionInput: 'builder-description-input',
+        saveQuizButton: 'builder-save-quiz-button',
+        questionTitleInput: 'builder-question-title-input',
+        optionInput: 'builder-option-input',
+        addOptionButton: 'builder-add-option-button',
+        removeOptionButton: 'builder-remove-option-button',
+        correctAnswerSelect: 'builder-correct-answer-select',
+        addQuestionButton: 'builder-add-question-button',
+        questionRow: 'builder-question-row',
+        deleteQuestionButton: 'builder-delete-question-button',
+        backButton: 'builder-back-button',
+        quizIdBadge: 'builder-quiz-id-badge',
+        copyQuizIdButton: 'builder-copy-quiz-id-button',
+};
