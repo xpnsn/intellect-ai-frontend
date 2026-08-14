@@ -9,10 +9,9 @@ interesting parts are:
 
 - **[intellect-ai](https://github.com/xpnsn/intellect-ai)** — Spring Boot
   backend: auth, quiz CRUD, WebSocket-based real-time quiz delivery
-- **IntellectAI AI Service** — FastAPI microservice sitting behind the
+- **[intellect-ai-engine](https://github.com/xpnsn/intellect-ai-engine)** — FastAPI microservice sitting behind the
   Spring Boot backend: concept-roadmap generation, mastery-driven
-  adaptive difficulty, RAG over uploaded documents (link it here once
-  that repo's public)
+  adaptive difficulty, RAG over uploaded documents 
 
 This app is the client that talks to both.
 
